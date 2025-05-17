@@ -50,7 +50,7 @@ function Header() {
   return (
     <div className='p-3 shadow-sm flex justify-between items-center px-5'>
      <a href='/'>
-      <img src='/logo.svg' />
+      <img src='/logoAi.svg'/>
       </a>
       <div>
         {user ?
@@ -86,7 +86,7 @@ function Header() {
   <DialogHeader>
 
     <DialogDescription>
-      <img src="/logo.svg" />
+      <img src="/logoAi.svg" />
       <h2 className='font-bold text-lg mt-7'>Sign In With Google</h2>
       <p>Sign in to the App with Google authentication securely</p>
 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="60" viewBox="0 0 320 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Coral compass icon -->
+  <g transform="translate(30,30)">
+    <circle r="20" fill="#FF6B61"/>
+    <polygon points="0,-12 5,0 0,12 -5,0" fill="#FFFFFF"/>
+    <circle r="3" fill="#FF6B61"/>
+  </g>
+  <!-- "AI Travel Planner" text -->
+  <text x="60" y="38"
+        font-family="Roboto, sans-serif"
+        font-size="24"
+        font-weight="700"
+        fill="#1A1A1A">
+    AI Travel Planner
+  </text>
+</svg>
